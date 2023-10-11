@@ -11,9 +11,9 @@ class script(object):
     ABOUT_TXT = """<b>🎧 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=http://t.me/Gimmy_filtbot>♣𝐆𝐢𝐦𝐦𝐲 𝐅𝐢𝐥𝐭𝐞𝐫♻️</a>
 🔥 𝐀𝐫𝐭𝐢𝐬𝐭 : <a href=https://t.me/Owner_of_qtmve>🍁𝐐𝐭𝐦𝐯𝐞_𝐎𝐰𝐧𝐞𝐫☔</a>
 🍻 𝐃𝐞𝐯𝐨𝐥𝐨𝐩𝐞𝐫 : <a href=https://t.me/SMD_Owner>🎋𝐒𝐌𝐃_𝐎𝐰𝐧𝐞𝐫🦞</a>
-✍️ 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞 : <a href=https://t.me/Siva_Soft>🛬𝐒𝐢𝐯𝐚🚦</a>
-♠ 𝐊𝐨𝐥𝐚𝐫𝐮 : <a href=https://t.me/Svaraz>🎭𝐔𝐚𝐫𝐮𝐭𝐨🔥</a>
-👨‍🔧 𝐇𝐞𝐥𝐩𝐞𝐫 : <a href=https://t.me/Thavarajtj>🗽𝐓𝐡𝐚𝐯𝐚𝐫𝐚𝐣🌿</a>
+✍️ 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞 : 🛬𝐒𝐢𝐯𝐚🚦
+♠ 𝐊𝐨𝐥𝐚𝐫𝐮 : 🎭𝐔𝐚𝐫𝐮𝐭𝐨🔥
+👨‍🔧 𝐇𝐞𝐥𝐩𝐞𝐫 : 🗽𝐓𝐡𝐚𝐯𝐚𝐫𝐚𝐣🌿
 ⚜️ 𝐐𝐭𝐯𝐬𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 : <a href=https://t.me/QTVS_BOT_X_CLOUD>🥀𝐌𝐚𝐫𝐯𝐞𝐥🎋</a></b>"""
 
     SOURCE_TXT = """𝐓𝐡𝐢𝐬 𝐈𝐬 𝐀𝐧 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐁𝐲 @SMD_Owner
