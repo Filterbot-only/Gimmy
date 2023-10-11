@@ -9,8 +9,8 @@ class script(object):
     HELP_TXT = """<b>𝐇𝐞𝐲 {} 𝐅𝐫𝐢𝐞𝐧𝐝𝐬 𝐇𝐞𝐫𝐞 𝐘𝐨𝐮𝐫 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 👇</b>"""
 
     ABOUT_TXT = """<b>🎧 𝐌𝐲 𝐍𝐚𝐦𝐞 𝐢𝐬 : <a href=http://t.me/Gimmy_filtbot>♣𝐆𝐢𝐦𝐦𝐲 𝐅𝐢𝐥𝐭𝐞𝐫♻️</a>
-🔥 𝐀𝐫𝐭𝐢𝐬𝐭 : <a href=https://t.me/Owner_of_qtmve>🍁𝐐𝐭𝐦𝐯𝐞_𝐎𝐰𝐧𝐞𝐫☔</a>
-🍻 𝐃𝐞𝐯𝐨𝐥𝐨𝐩𝐞𝐫 : <a href=https://t.me/SMD_Owner>🎋𝐒𝐌𝐃_𝐎𝐰𝐧𝐞𝐫🦞</a>
+🔥 𝐀𝐫𝐭𝐢𝐬𝐭 : 🍁𝐐𝐭𝐦𝐯𝐞_𝐎𝐰𝐧𝐞𝐫☔
+🍻 𝐃𝐞𝐯𝐨𝐥𝐨𝐩𝐞𝐫 : 🎋𝐒𝐌𝐃_𝐎𝐰𝐧𝐞𝐫🦞
 ✍️ 𝐆𝐫𝐚𝐝𝐮𝐚𝐭𝐞 : 🛬𝐒𝐢𝐯𝐚🚦
 ♠ 𝐊𝐨𝐥𝐚𝐫𝐮 : 🎭𝐔𝐚𝐫𝐮𝐭𝐨🔥
 👨‍🔧 𝐇𝐞𝐥𝐩𝐞𝐫 : 🗽𝐓𝐡𝐚𝐯𝐚𝐫𝐚𝐣🌿
@@ -149,7 +149,7 @@ Nᴀᴍᴇ - {}"""
     MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️</b>"""
 
     SHORTLINK_INFO = """
-<b>──────「<a href=https://t.me/Yessma_ullu_tamil_latest_webseri> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
+<b>──────「<a href=https://t.me/kanadahot_tamilwife> Hᴏᴡ ᴛᴏ Eᴀʀɴ Mᴏɴᴇʏ </a> 」──────
 
 Yᴏᴜ ᴄᴀɴ Eᴀʀɴ Mᴏɴᴇʏ Fʀᴏᴍ Tʜɪs Bᴏᴛ Uɴᴛɪʟ ᴛʜɪs ʙᴏᴛ ɪs ᴀʟɪᴠᴇ.
 
@@ -159,7 +159,7 @@ sᴛᴇᴘ 𝟷 : ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ ᴀᴛʟᴇᴀsᴛ ᴏɴᴇ ɢ
 
 sᴛᴇᴘ 𝟸 : ᴍᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ Aɴʏ <a href=https://omnifly.in.net/ref/Samar>Sʜᴏʀᴛᴇɴᴇʀ Wᴇʙsɪᴛᴇ</a>.
 
-sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/Yessma_ullu_tamil_latest_webseri> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
+sᴛᴇᴘ 𝟹 : ꜰᴏʟʟᴏᴡ ᴛʜᴇsᴇ <a href=https://t.me/kanadahot_tamilwife> ɪɴꜱᴛʀᴜᴄᴛɪᴏɴꜱ </a>Tᴏ ᴄᴏɴɴᴇᴄᴛ sʜᴏʀᴛᴇɴᴇʀ.
 
 ➣ Yᴏᴜ ᴄᴀɴ ᴄᴏɴɴᴇᴄᴛ ᴀs ᴍᴀɴʏ ɢʀᴏᴜᴘ ʏᴏᴜ ʜᴀᴠᴇ.
 
@@ -205,12 +205,12 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 <b>
 ╭─────── • ◆ • ───────╮
-🔅 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛:  <a href="https://t.me/Yessma_ullu_tamil_latest_webseri">♻️𝐂𝐥𝐢𝐜𝐤♻️</a>
+🔅 𝐌𝐚𝐢𝐧 𝐇𝐮𝐛:  <a href="https://t.me/kanadahot_tamilwife">♻️𝐂𝐥𝐢𝐜𝐤♻️</a>
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : <a href="https://t.me/Yessma_ullu_tamil_latest_webseri">♻️𝐂𝐥𝐢𝐜𝐤♻️</a>
-▫️ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 : <a href="https://t.me/+2p5iD8xBxE43NzBl">♻️𝐂𝐥𝐢𝐜𝐤♻️</a>
+▫️ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : <a href="https://t.me/kanadahot_tamilwife">♻️𝐂𝐥𝐢𝐜𝐤♻️</a>
+▫️ 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 : <a href="https://t.me/+92uBb4Tt1sZmNTA1">♻️𝐂𝐥𝐢𝐜𝐤♻️</a>
 =========== • ✠ • ===========</b>"""
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
